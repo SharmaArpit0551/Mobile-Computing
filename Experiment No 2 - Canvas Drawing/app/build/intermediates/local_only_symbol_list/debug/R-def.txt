@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_700
+color teal_200
+drawable ic_color
+drawable ic_download
+drawable ic_redo
+drawable ic_refresh
+drawable ic_size
+drawable ic_undo
+mipmap ic_launcher
+mipmap ic_launcher_background
+mipmap ic_launcher_foreground
+string app_name
+string image_desc
+style Theme.DrawBox
+style Theme.DrawBox.NoActionBar
